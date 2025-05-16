@@ -1,0 +1,17 @@
+vscode a customize 
+cursorUp = ctrl + i 
+cursorDown = ctrl + k
+cursorLeft = ctrl + j
+cursorRight = ctrl + l
+
+
+Copilot Chat Command Palette
+------------------------------
+ctrl + shift + p 
+search = GitHub Copilot Chat: Open Chat
+then Ctrl + Shift + I kore debo(karon ctrl + i dea unno kaj korbo)
+
+shortcut keys
+-------------------
+1.line dublicate = shift + alt + arrow up down
+2.line select = ctrl + alt = arrow up down
